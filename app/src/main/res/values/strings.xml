@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Procom</string>
+    <string name="Button_text">Add</string>
+    <string name="password_hint">password</string>
+    <string name="login">Login</string>
+    <string name="coursename">CourseName</string>
+    <string name="teacher">Teacher Name</string>
+</resources>
